@@ -12,6 +12,7 @@ A command line tool to convert random JSON files in this repository to audio
 ### Supported OS
 Ubuntu
 Windows 10
+windows 9+
 
 ### Prerequisites
 
@@ -31,4 +32,4 @@ Windows 10
             
 ## Usage 
 
-After installation, run the command ```SurpriseMe``` to get started and listen to the words!
+After installation, run the command ```SurpriseMe``` to get started and to listen the words..!
